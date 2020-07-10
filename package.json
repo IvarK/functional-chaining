@@ -1,0 +1,12 @@
+{
+  "name": "functional-chaining",
+  "version": "1.0.0",
+  "description": "Modifies the prototype getters of Array, String, Number and Object to have better functionalities themselves, which makes the code more pleasant to write.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["functional", "prototype", "chaining"],
+  "author": "IvarK",
+  "license": "ISC"
+}
