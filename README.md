@@ -133,7 +133,7 @@ Same as ._map but only takes the value as the callback function parameter
 
 ```js
 const obj = {a: 1, b: 2, c: 3};
-obj._map(value => {
+obj._mapValues(value => {
   return value * 2
 })
 // {a: 2, b: 4, c: 6}
